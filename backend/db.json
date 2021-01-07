@@ -19,6 +19,16 @@
       "name": " Caneta Bic 4 Cores",
       "price": "1900.00",
       "id": 4
+    },
+    {
+      "name": "Cristiano",
+      "price": 1.99,
+      "id": 5
+    },
+    {
+      "name": "Cristiano",
+      "price": 1.99,
+      "id": 6
     }
   ]
 }
