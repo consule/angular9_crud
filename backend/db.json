@@ -29,6 +29,21 @@
       "name": "Cristiano",
       "price": 1.99,
       "id": 6
+    },
+    {
+      "name": "Cristiano",
+      "price": 1.99,
+      "id": 7
+    },
+    {
+      "name": "Delza",
+      "price": "800000",
+      "id": 8
+    },
+    {
+      "name": "Cristiano",
+      "price": "",
+      "id": 9
     }
   ]
 }

@@ -24,6 +24,10 @@ import { RedDirective } from './directives/red.directive';
 import { ProductCreateComponent } from './components/product/product-create/product-create.component';
 import { HttpClientModule } from "@angular/common/http";
 
+import { FormsModule } from "@angular/forms";
+import { MatFormFieldModule } from "@angular/material/form-field";
+import { MatInputModule } from "@angular/material/input";
+
 
 @NgModule({
   // declaração dos componentes que fazem parte desse modulo
@@ -48,7 +52,10 @@ import { HttpClientModule } from "@angular/common/http";
     MatCardModule,
     MatButtonModule,
     MatSnackBarModule,
-    HttpClientModule
+    HttpClientModule,
+    FormsModule,
+    MatFormFieldModule,
+    MatInputModule
   ],
   // declaração de services
   providers: [
