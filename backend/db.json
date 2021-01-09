@@ -1,49 +1,9 @@
 {
   "products": [
     {
-      "name": " Caneta Bic 4 Cores",
-      "price": "12",
-      "id": 1
-    },
-    {
-      "name": "Geladeira 2",
-      "price": "1900.00",
-      "id": 2
-    },
-    {
-      "name": "Geladeira 2 sss",
-      "price": "1900.00",
-      "id": 3
-    },
-    {
-      "name": " Caneta Bic 4 Cores",
-      "price": "1900.00",
-      "id": 4
-    },
-    {
-      "name": "Cristiano",
-      "price": 1.99,
-      "id": 5
-    },
-    {
-      "name": "Cristiano",
-      "price": 1.99,
-      "id": 6
-    },
-    {
-      "name": "Cristiano",
-      "price": 1.99,
-      "id": 7
-    },
-    {
-      "name": "Delza",
+      "name": "CRI DO CAVACO",
       "price": "800000",
-      "id": 8
-    },
-    {
-      "name": "Cristiano",
-      "price": "",
-      "id": 9
+      "id": 1
     }
   ]
 }
