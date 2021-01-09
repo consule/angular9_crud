@@ -1,7 +1,7 @@
 import { ProductService } from './../product.service';
-import { Product } from './../product-read2/product-read2-datasource';
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
+import { Product } from '../product.model';
 
 @Component({
   selector: 'app-product-delete',
